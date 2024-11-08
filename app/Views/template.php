@@ -6,10 +6,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>starter-ci4-sneat | irmanf.com</title>
+    <title>starter-ci4-sneat | irmanf11.blogspot.com</title>
 
     <meta name="description" content="starter-ci4-sneat" />
-    <meta name="author" content="irmanf.com" />
+    <meta name="author" content="irmanf11.blogspot.com" />
 
     <link rel="shortcut icon" href="<?= base_url('assets/img/icon.png') ?>" type="image/x-icon">
 
@@ -187,7 +187,7 @@
                                 <script>
                                     document.write(new Date().getFullYear());
                                 </script>
-                                <a href="https://irmanf.com/" target="_blank">irmanf.com</a>
+                                <a href="https://irmanf11.blogspot.com/" target="_blank">irmanf11.blogspot.com</a>
                             </div>
                         </div>
                     </footer>
